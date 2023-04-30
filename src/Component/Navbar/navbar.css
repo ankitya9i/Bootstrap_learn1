@@ -1,0 +1,42 @@
+.m-navbar{
+    
+    display: flex;
+    width: 100%;
+    background-color: rgb(194, 193, 192);
+
+}
+
+.navbar container{
+    border:2px solid black;
+}
+.me-auto{
+    border:2px solid black;
+    width: 100%;
+}
+.navbar{
+   
+    display: flex;
+    width:100%;
+    border:2px solid orange;
+}
+
+#basic-navbar-nav{
+
+    display: flex;
+    position: relative;
+    flex-direction: flex-end;
+    
+
+}
+
+.btn{
+    margin-left: 10px;
+    border: 2px solid black;
+    border-radius: 30px;
+}
+
+.btn:hover{
+    background-color: orange;
+    color:white;
+
+}
